@@ -251,3 +251,4 @@ Note that the API accepts `startsAt` and `endsAt`, which the service maps to the
 - Plan non trivial features before building
 - Use the Nest CLI to generate modules, services and controllers
 - Run `pnpm lint`, `pnpm test` and `pnpm build` before opening a pull request
+"# hackathon-backend" 
